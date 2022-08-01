@@ -1,0 +1,47 @@
+body {
+    background-image: linear-gradient(to right top, #2d66ba, #234fa3, #1a398d, #132375, #0b0b5e);
+    background-attachment: fixed;
+}
+
+#logo{
+    height: 50px;
+    float: left;
+}
+
+ol {
+    list-style-type: none;
+}
+
+i {
+    float: right;
+    color: red !important;
+}
+
+#button {
+    padding: 0px 25px;
+}
+
+#searchbar{
+    height: 35px;
+    width: 150px !important;
+    border-radius: 15px;
+}
+
+#search{
+    width: 250px !important;
+}
+
+.btn{
+    height: 35px !important;
+    border-radius: 15px !important;
+}
+
+.navbar{
+    margin-bottom: 50px;
+}
+
+.card{
+    border-radius: 10px;
+}
+
+
